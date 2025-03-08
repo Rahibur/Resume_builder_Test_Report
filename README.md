@@ -40,10 +40,9 @@ The project scope includes testing the following features of  this web applicati
 
 
   
+# Test Environments 
 
-  # Test Environments 
-
-  • Windows 10 – Chrome, Firefox and Edge 
+  • Windows 10 – Chrome, Firefox , Opera GX browser and Edge 
 
   • Mac OS – Safari Browser 
 
@@ -51,8 +50,7 @@ The project scope includes testing the following features of  this web applicati
 
   • iPhone Mobile OS \- Safari 
 
-
- # Exclusions 
+# Exclusions 
 
   • All the features except those that are mentioned under ‘Inclusions’ 
 
@@ -60,41 +58,38 @@ The project scope includes testing the following features of  this web applicati
 
   • Test Automation
 
-  Test Strategy 
+  
 
-  ‘Rahibur Rahman’ has communicated with the team members and has understood that they need to perform Functional Testing of all the functionalities mentioned in the above  Scope section. 
+# Test Strategy 
+
+  ‘Rahibur Rahman’ has communicated with the team members and understands he needs to perform functional testing of all the functionalities mentioned in the above scope section. 
 
   As part of Functional Testing, he will follow the below approach for Testing: 
 
-**Step\#1 – Creation of Test Scenarios and Test Cases for the different features in  scope.**  
+**Step 1 – Creation of Test Scenarios and Test Cases for the different features in  scope.**  
 
-• He will apply several Test Designing techniques while creating Test Cases  
+         • He will apply several Test Design techniques while creating Test Cases  
 
-**Equivalence Class Partition** 
+               o Equivalence Class Partition
+               o Boundary Value Analysis 
+               o Decision Table Testing
+               o State Transition Testing
+               o Use Case Testing
 
- **Boundary Value Analysis** 
+         • He also uses our expertise in creating Test Cases by applying the below:
 
- **Decision Table Testing** 
+               o Error Guessing 
+               o Exploratory Testing 
 
- **State Transition Testing** 
+         • He prioritizes the Test Cases 
 
-  **Use Case Testing** 
-
-• He also use our expertise in creating Test Cases by applying the below:
-
-        o Error Guessing 
-
-o Exploratory Testing 
-
-• We prioritise the Test Cases 
-
-**Step\#2 – Our Testing process, when we get an Application for Testing:** 
+**Step 2 – Our Testing process, when we get an Application for Testing:** 
 
 • Firstly, he will perform Smoke Testing to check whether the different and important functionalities of the application are working. 
 
 • We reject the build, if the Smoke Testing fails and will wait for the stable build before performing in-depth testing of the application functionalities.
 
- • Once we receive a stable build, which passes Smoke Testing, we perform in depth testing using the Test Cases created. 
+• Once we receive a stable build, which passes Smoke Testing, we perform in depth testing using the Test Cases created. 
 
 • Multiple Test Resources will be testing the same Application on Multiple  Supported Environments simultaneously. 
 
@@ -102,28 +97,28 @@ o Exploratory Testing
 
 • As part of the Testing, we will perform the below types of Testing: 
 
-        **Smoke Testing and Sanity Testing** 
+            Smoke Testing and Sanity Testing 
 
-  **Regression Testing and Retesting**  
+            Regression Testing and Retesting  
 
-  **Usability Testing, Functionality & UI Testing**
+            Usability Testing, Functionality & UI Testing
 
 
 • We repeat Test Cycles until we get the quality product. 
 
-         **Step\#3 – We will follow the below best practices to make our Testing better:** 
+**Step3 – We will follow the below best practices to make our Testing better:** 
 
 • **Context-Driven Testing** – We will be performing Testing as per the context of the given application. 
 
 • **Shift Left Testing** – We will start testing from the beginning stages of the development itself, instead of waiting for the stable build. 
 
-• **Exploratory Testing** – Using our expertise we will perform Exploratory  Testing, 
-
-       apart from the normal execution of the Test cases.
+• **Exploratory Testing** – Using our expertise we will perform Exploratory  Testing, apart from the normal execution of the Test cases.
 
 • **End-to-end Flow Testing** – We will test the end-to-end scenario which involves multiple functionalities to simulate the end user flows. 
 
-Defect Reporting Procedure: 
+
+
+# Defect Reporting Procedure: 
 
 During the test execution – 
 
@@ -147,7 +142,9 @@ During the test execution –
 | ----- | ----- | ----- |
 | Rahibur Rahman  | Software Tester  | ✓ Create the Test Plan  ✓ Interact with the application, create  and execute the test cases  ✓ Report defects   |
 
-                    Test Schedule 
+
+
+# Test Schedule 
 
 Following is the test schedule planned for the project – 
 
@@ -158,59 +155,62 @@ Following is the test schedule planned for the project –
 | ▪ Test Case Execution  | 5 March 2025 \- 7 March 2025 |
 | ▪ Summary Reports Submission  | 7 March 2025 |
 
-            Entry and Exit Criteria 
+
+
+# Entry and Exit Criteria 
 
 Below are the entry and exit criteria for every phase of the Software Testing Life  Cycle: 
 
 **Requirement Analysis** 
 
-**Entry Criteria:** 
+    Entry Criteria: 
 
-• Once the testing team receives the Requirements Documents or details  about the Project 
+    • Once the testing team receives the Requirements Documents or details  about the Project 
 
-**Exit Criteria:** 
+    Exit Criteria:
 
-• List of Requirements is explored and understood by the Testing team
+    • List of Requirements is explored and understood by the Testing team
 
- • Doubts are cleared 
+    • Doubts are cleared 
 
 **Test Planning**
 
-**Entry Criteria:** 
+    Entry Criteria:
 
-• Testable Requirements derived from the given Requirements Documents  or Project details 
+    • Testable Requirements derived from the given Requirements Documents  or Project details 
 
-• Doubts are cleared 
+    • Doubts are cleared 
 
-**Exit Criteria:** 
+    Exit Criteria:
 
-• Test Plan document (includes Test Strategy) is signed-off by the Client  **Test Designing** 
+    • Test Plan document (includes Test Strategy) is signed-off by the Client  **Test Designing** 
 
-**Entry Criteria:** 
+    Entry Criteria:
 
-• Test Plan Document is signed-off by the Client 
+    • Test Plan Document is signed-off by the Client 
 
-**Exit Criteria:** 
+    Exit Criteria:
 
-• Test Scenarios and Test Cases Documents are signed-off by the Client **Test Execution** 
+    • Test Scenarios and Test Cases Documents are signed-off by the Client **Test Execution** 
 
-**Entry Criteria:** 
+    Entry Criteria:
 
-• Test Scenarios and Test Cases Documents are signed-off by the Client • Application is ready for Testing 
+    • Test Scenarios and Test Cases Documents are signed-off by the Client • Application is ready for Testing 
 
-**Exit Criteria:** 
+    Exit Criteria:
 
-• Test Case Reports, Defect Reports are ready 
+    • Test Case Reports, Defect Reports are ready 
 
 **Test Closure** 
 
-**Entry Criteria:** 
+    Entry Criteria:
 
-• Test Case Reports, Defect Reports are ready 
+    • Test Case Reports, Defect Reports are ready 
 
-**Exit Criteria:** 
+    Exit Criteria:
 
-• Test Summary Reports 
+    • Test Summary Reports 
+    
 
 # Suspension and Resumption Criteria 
 
@@ -242,7 +242,7 @@ The following are the list of risks possible and the ways to mitigate them:
 
 **Risk:** Less time for Testing 
 
-       **Mitigation:** Ramp up the resources based on the Client's needs dynamically 
+**Mitigation:** Ramp up the resources based on the Client's needs dynamically 
 
 Approvals 
 
