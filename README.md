@@ -1,6 +1,6 @@
 ![Image](https://github.com/user-attachments/assets/379b0a15-cecc-4339-a847-fbc40267cb5b)
 
-                                                      Project Name: Resume Builder
+#### Project Name: Resume Builder
 #### Test Scenario Link : [Click here to view](https://docs.google.com/spreadsheets/d/1fK5SJVCpDeOw0O_FwFYu8g0q-iDQ7O5abaS_FmGudG0/edit?gid=182682632#gid=182682632)  
 #### Test Case Link : [Click here to view](https://docs.google.com/spreadsheets/d/1fK5SJVCpDeOw0O_FwFYu8g0q-iDQ7O5abaS_FmGudG0/edit?gid=1670030813#gid=1670030813)  
 #### Test SUmmury Link : [Click here to view](https://docs.google.com/spreadsheets/d/1fK5SJVCpDeOw0O_FwFYu8g0q-iDQ7O5abaS_FmGudG0/edit?gid=1367332582#gid=1367332582)  
